@@ -1,0 +1,7 @@
+.popup > * {
+    color: black;
+}
+
+.popup__close {
+    margin-left: 25px;
+}
